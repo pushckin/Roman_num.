@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cdf3917-62cd-4185-8e84-a5beaebdc05b" name="Changes" comment="test задача не решена">
+    <list default="true" id="3cdf3917-62cd-4185-8e84-a5beaebdc05b" name="Changes" comment="задача решена с помощью словаря переводит цифры в римские.">
+      <change afterPath="$PROJECT_DIR$/../Roman_num/YES_or_NO.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Roman_num/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Roman_num/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Roman_num/rom_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Roman_num/rom_num.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,28 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.rom_num">
+  <component name="RunManager" selected="Python.YES_or_NO">
+    <configuration name="YES_or_NO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Roman_num" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Roman_num" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Roman_num/YES_or_NO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Roman_num" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.YES_or_NO" />
         <item itemvalue="Python.rom_num" />
       </list>
     </recent_temporary>
@@ -103,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659809150276</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="задача решена с помощью словаря переводит цифры в римские.">
+      <created>1660409958646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660409958646</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +148,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="progect1" />
-    <option name="LAST_COMMIT_MESSAGE" value="progect1" />
+    <MESSAGE value="задача решена с помощью словаря переводит цифры в римские." />
+    <option name="LAST_COMMIT_MESSAGE" value="задача решена с помощью словаря переводит цифры в римские." />
   </component>
 </project>
